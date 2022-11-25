@@ -3,7 +3,9 @@
 
 개인투자자가 소액으로 가능한 P2P 투자사이트 "8percent"를 클론 코딩 해보았습니다.
 
-[>>시연 동영상 보러가기](https://youtu.be/5wOlzBs6B9I)
+[>>시연 동영상 보러가기](https://youtu.be/5wOlzBs6B9I) </br>
+[프로젝트 회고록 포스트](https://velog.io/@hayejun1013/Project-8-%ED%8D%BC%EC%84%BC%ED%8A%B8-%ED%81%B4%EB%A1%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+
 
 ## Team
 
